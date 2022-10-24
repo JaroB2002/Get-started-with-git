@@ -5,4 +5,8 @@ function doSomething(){
 /*function doSomethingElse(){
     console.log("Ok")
 }*/
+
+function doSomethingElse(){
+    console.log("Ok")
+}
 doSomething();
