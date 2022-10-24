@@ -9,4 +9,7 @@ function doSomething(){
 function doSomethingElse(){
     console.log("Ok")
 }
+
+function test();
+console.log("oke")
 doSomething();
